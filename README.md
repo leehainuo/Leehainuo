@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✨Java Developer, React Developer.
+
+📖Learning TypeScript
+
+📫 You can reach me via email lihainuo0502@gmail.com
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,nest,ts,prisma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,maven,rabbitmq,redis,mysql,jenkins,docker&theme=dark)](https://skillicons.dev)
