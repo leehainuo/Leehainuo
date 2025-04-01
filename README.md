@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ✨Java Developer, React Developer.
 
-📖Learning TypeScript
+📖Learning TypeScript、Rust
 
 📫 You can reach me via email lihainuo0502@gmail.com
 
