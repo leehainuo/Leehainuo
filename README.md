@@ -1,5 +1,5 @@
 # Johnny Lee.
 
-<p align="center" style="font-weight: bold;">
-    Writing...
+<p align="center">
+    <strong>Writing...</strong>
 </p>
