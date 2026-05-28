@@ -1,38 +1,37 @@
 <svg width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .grid-line {
+      .grid-cell {
+        fill: none;
         stroke: rgba(200, 200, 200, 0.5);
         stroke-width: 1;
-        fill: none;
       }
     </style>
   </defs>
   
-  <!-- 背景 -->
-  <rect width="1200" height="600" fill="none"/>
-  
-  <!-- 垂直线 - 13条线（12个格子需要13条线） -->
-  <line x1="0" y1="0" x2="0" y2="600" class="grid-line"/>
-  <line x1="100" y1="0" x2="100" y2="600" class="grid-line"/>
-  <line x1="200" y1="0" x2="200" y2="600" class="grid-line"/>
-  <line x1="300" y1="0" x2="300" y2="600" class="grid-line"/>
-  <line x1="400" y1="0" x2="400" y2="600" class="grid-line"/>
-  <line x1="500" y1="0" x2="500" y2="600" class="grid-line"/>
-  <line x1="600" y1="0" x2="600" y2="600" class="grid-line"/>
-  <line x1="700" y1="0" x2="700" y2="600" class="grid-line"/>
-  <line x1="800" y1="0" x2="800" y2="600" class="grid-line"/>
-  <line x1="900" y1="0" x2="900" y2="600" class="grid-line"/>
-  <line x1="1000" y1="0" x2="1000" y2="600" class="grid-line"/>
-  <line x1="1100" y1="0" x2="1100" y2="600" class="grid-line"/>
-  <line x1="1200" y1="0" x2="1200" y2="600" class="grid-line"/>
-  
-  <!-- 水平线 - 7条线（6个格子需要7条线） -->
-  <line x1="0" y1="0" x2="1200" y2="0" class="grid-line"/>
-  <line x1="0" y1="100" x2="1200" y2="100" class="grid-line"/>
-  <line x1="0" y1="200" x2="1200" y2="200" class="grid-line"/>
-  <line x1="0" y1="300" x2="1200" y2="300" class="grid-line"/>
-  <line x1="0" y1="400" x2="1200" y2="400" class="grid-line"/>
-  <line x1="0" y1="500" x2="1200" y2="500" class="grid-line"/>
-  <line x1="0" y1="600" x2="1200" y2="600" class="grid-line"/>
+  <!-- 网格线 - 使用单个path确保每条线只画一次 -->
+  <!-- 向内偏移0.5px避免边缘被裁剪 -->
+  <path class="grid-cell" d="
+    M 0.5 0.5 L 0.5 599.5
+    M 100 0.5 L 100 599.5
+    M 200 0.5 L 200 599.5
+    M 300 0.5 L 300 599.5
+    M 400 0.5 L 400 599.5
+    M 500 0.5 L 500 599.5
+    M 600 0.5 L 600 599.5
+    M 700 0.5 L 700 599.5
+    M 800 0.5 L 800 599.5
+    M 900 0.5 L 900 599.5
+    M 1000 0.5 L 1000 599.5
+    M 1100 0.5 L 1100 599.5
+    M 1199.5 0.5 L 1199.5 599.5
+    
+    M 0.5 0.5 L 1199.5 0.5
+    M 0.5 100 L 1199.5 100
+    M 0.5 200 L 1199.5 200
+    M 0.5 300 L 1199.5 300
+    M 0.5 400 L 1199.5 400
+    M 0.5 500 L 1199.5 500
+    M 0.5 599.5 L 1199.5 599.5
+  "/>
 </svg>
