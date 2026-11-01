@@ -17,7 +17,6 @@
 
 <br clear="left">
 
-
 <p><img src="./assets/project-divider.svg" width="100%" height="8" alt=""></p>
 
 <!-- Gin -->
@@ -28,3 +27,5 @@
 <p>Gin is a high-performance HTTP web framework written in Go.</p>
 
 <p><a href="https://github.com/gin-gonic/gin">Repo</a> &nbsp;|&nbsp; <a href="https://gin-gonic.com/">Homepage</a></p>
+
+<br clear="left">
