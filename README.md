@@ -1,6 +1,4 @@
-# Johnny Lee.
-
-<img src="./assets/banner.svg" width="100%" alt="Banner">
+# <img src="./assets/header.svg" width="30%" alt="Header">
 
 <p align="center">
     <strong>Writing...</strong>
