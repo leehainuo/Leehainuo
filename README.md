@@ -1,5 +1,6 @@
-# <img src="./assets/header.svg" width="30%" alt="Header">
+# <img src="./assets/header.svg" width="20%" alt="Header">
 
-<p align="center">
-    <strong>Writing...</strong>
-</p>
+<br/>
+
+<img src="./assets/projects.svg" width="18%" alt="Projects">
+
