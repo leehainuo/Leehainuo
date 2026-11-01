@@ -1,6 +1,6 @@
 # <img src="./assets/header.svg" width="20%" alt="Header">
 
-<br/>
+<img src="./assets/biography.svg" width="60%" alt="Biography">
 
 <img src="./assets/projects.svg" width="18%" alt="Projects">
 
