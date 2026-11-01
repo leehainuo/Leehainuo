@@ -4,36 +4,27 @@
 
 <img src="./assets/projects.svg" width="18%" alt="Projects">
 
-<table><tbody><tr>
-<td align="center" valign="middle" width="170px" height="140px">
-    
-<a href="https://github.com/zeromicro/go-zero"><img alt="go-zero logo" src="https://github.com/zeromicro.png" height="112"></a>
-    
-</td>
-<td align="left" valign="middle" width="630px">
+<br clear="left">
 
-### go-zero <img align="right" src="https://img.shields.io/github/stars/zeromicro/go-zero?style=flat-square&color=gold">
+<!-- go-zero -->
+<img align="left" hspace="29" vspace="14" alt="go-zero logo" src="https://github.com/zeromicro.png" width="112" height="112">
 
-A cloud-native Go microservices framework with cli tool for productivity.
+<h3>go-zero<img align="right" src="https://img.shields.io/github/stars/zeromicro/go-zero?style=flat-square&amp;color=gold" alt="go-zero stars"></h3>
 
-[Repo](https://github.com/zeromicro/go-zero) &nbsp;|&nbsp; [Homepage](https://go-zero.dev/)
-<br><br>
+<p>A cloud-native Go microservices framework with cli tool for productivity.</p>
 
-</td>
-</tr><tr>
-<td align="center" valign="middle" width="170px" height="140px">
+<p><a href="https://github.com/zeromicro/go-zero">Repo</a> &nbsp;|&nbsp; <a href="https://go-zero.dev/">Homepage</a></p>
 
-<a href="https://github.com/gin-gonic/gin"><img alt="Gin logo" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="92"></a>
+<br clear="left">
 
-</td>
-<td align="left" valign="middle" width="630px">
 
-### Gin <img align="right" src="https://img.shields.io/github/stars/gin-gonic/gin?style=flat-square&color=gold">
+<p><img src="./assets/project-divider.svg" width="100%" height="8" alt=""></p>
 
-Gin is a high-performance HTTP web framework written in Go.
+<!-- Gin -->
+<img align="left" hspace="52" vspace="24" alt="Gin logo" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="92">
 
-[Repo](https://github.com/gin-gonic/gin) &nbsp;|&nbsp; [Homepage](https://gin-gonic.com/)
-<br><br>
+<h3>Gin<img align="right" src="https://img.shields.io/github/stars/gin-gonic/gin?style=flat-square&amp;color=gold" alt="Gin stars"></h3>
 
-</td>
-</tr></tbody></table>
+<p>Gin is a high-performance HTTP web framework written in Go.</p>
+
+<p><a href="https://github.com/gin-gonic/gin">Repo</a> &nbsp;|&nbsp; <a href="https://gin-gonic.com/">Homepage</a></p>
