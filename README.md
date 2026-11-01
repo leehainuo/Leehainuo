@@ -17,7 +17,7 @@
 
 <br clear="left">
 
-<p><img src="./assets/project-divider.svg" width="100%" height="8" alt=""></p>
+<p><img src="./assets/underline.svg" width="100%" height="8" alt="Underline"></p>
 
 <!-- Gin -->
 <img align="left" hspace="52" vspace="24" alt="Gin logo" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="92">
