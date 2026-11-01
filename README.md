@@ -19,10 +19,10 @@
 
 <p><img src="./assets/underline.svg" width="100%" height="8" alt="Underline"></p>
 
-<!-- Gin -->
+<!-- gin -->
 <img align="left" hspace="52" vspace="24" alt="Gin logo" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="92">
 
-<h3>Gin<img align="right" src="https://img.shields.io/github/stars/gin-gonic/gin?style=flat-square&amp;color=gold" alt="Gin stars"></h3>
+<h3>gin<img align="right" src="https://img.shields.io/github/stars/gin-gonic/gin?style=flat-square&amp;color=gold" alt="Gin stars"></h3>
 
 <p>Gin is a high-performance HTTP web framework written in Go.</p>
 
