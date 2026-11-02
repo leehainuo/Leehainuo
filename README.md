@@ -1,8 +1,8 @@
-# <img src="./assets/header.svg" width="25%" alt="Header">
+# <img src="./assets/header.svg" width="250" alt="Header">
 
-<img src="./assets/biography.svg" width="65%" alt="Biography">
+<img src="./assets/biography.svg" width="650" alt="Biography">
 
-<img src="./assets/projects.svg" width="23%" alt="Projects">
+<img src="./assets/projects.svg" width="230" alt="Projects">
 
 <br clear="left">
 
